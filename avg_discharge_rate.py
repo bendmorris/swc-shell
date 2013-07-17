@@ -1,6 +1,6 @@
 """Determine the average discharge rate of each station in a data file
 
-Usage: python avg_discharge_rate.py [input_file]
+Usage: python avg_discharge_rate.py [input file]
 
 Input file format:
 
