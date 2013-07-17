@@ -36,5 +36,8 @@ def main():
     for station in avg_discharge_rates:
         print(station + ' ' +  str(avg_discharge_rates[station]))
 
+# if this script is executed from the command line,
+# run the main() function;
+# if it's imported into another file, don't
 if __name__ == '__main__':
     main()
